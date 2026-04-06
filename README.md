@@ -160,9 +160,6 @@ try (OutputStream os = new FileOutputStream("financial_report.xlsx")) {
 
 # 如果有好的想法，欢迎贡献
 
-## 请坐着喝杯咖啡
-![WeChatPay.JPG](doc/WeChatPay.JPG)![alipay.JPG](doc/alipay.JPG)
-
 
 ## 技术交流
 ![WeChat.JPG](doc/WeChat.JPG)
